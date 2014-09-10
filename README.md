@@ -13,7 +13,7 @@ public class SAC {
 
 		 public static void main(String[] args){
 
-			 System.output.println("Hello, Santa Ana!");
+			 System.out.println("Hello, Santa Ana!");
 
 		 }
 
